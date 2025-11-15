@@ -33,8 +33,6 @@ Precompiled `.exe` builds are available for both **DirectML** (Universal support
   * Older NVIDIA cards like GTX 10xx/9xx/7xx
   * AMD Radeon or Intel Iris/Xe GPUs
   * Laptops and office PCs with integrated graphics
-* **Download the DirectML Build:**
-  [DirectML Release](https://disk.yandex.ru/d/jAVoMDfCuloNzw)
 
 ---
 
@@ -47,8 +45,6 @@ Precompiled `.exe` builds are available for both **DirectML** (Universal support
 * **Limitations:**
   * Not supported on older NVIDIA GPUs (e.g., GTX 10xx/Pascal series) due to TensorRT 10 limitations
   * Includes both CUDA+TensorRT and DirectML support — switchable in settings
-* **Download the CUDA Build:**
-  [CUDA + TensorRT Release](https://disk.yandex.ru/d/ltSkG0DadLBqcA)
 
 ---
 
