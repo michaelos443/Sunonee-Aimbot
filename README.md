@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Sunone Aimbot (Python Version)
+# 🌟 Sunonee Aimbot (Python Version)
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
 [![License MIT](https://badgen.net/github/license/SunOner/sunone_aimbot_python)](https://github.com/SunOner/sunone_aimbot_python/blob/main/LICENSE)
